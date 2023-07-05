@@ -178,14 +178,14 @@ body.appendChild(solicitarForm);
 }
 
 
-//  botton solicitar semilla
+
 const solicitarBoton = document.getElementById("solicite");
 solicitarBoton.addEventListener("click", () => {
  solicitarSemilla(); 
 });
 
 
-//  botton buscar semilla
+
 const filtradoBoton = document.getElementById("buscar");
 filtradoBoton.addEventListener("click", () => {
  buscaSemillas(); 
