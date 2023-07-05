@@ -1,0 +1,57 @@
+[
+    {
+        "id": "berenjena",
+        "nombre": "Berenjena",
+        "precio": 2500,
+        "cantidad": 10
+    },
+    {
+        "id": "arandano",
+        "nombre": "Arandano",
+        "precio": 5000,
+        "cantidad": 8
+    },
+    {
+        "id": "frutilla",
+        "nombre": "Frutilla",
+        "precio": 3000,
+        "cantidad": 20
+    },
+    {
+        "id": "cereza",
+        "nombre": "Cereza",
+        "precio": 5000,
+        "cantidad": 20
+    },
+    {
+        "id": "durazno",
+        "nombre": "Durazno",
+        "precio": 2500,
+        "cantidad": 15
+    },
+    {
+        "id": "sandia",
+        "nombre": "Sandia",
+        "precio": 3000,
+        "cantidad": 20
+    },
+    {
+        "id": "tomate",
+        "nombre": "Tomate",
+        "precio": 1500,
+        "cantidad": 30
+    },
+    {
+        "id": "mango",
+        "nombre": "Mango",
+        "precio": 3000,
+        "cantidad": 15
+    },
+    {
+        "id": "pera",
+        "nombre": "Pera",
+        "precio": 2000,
+        "cantidad": 25
+
+    }
+]

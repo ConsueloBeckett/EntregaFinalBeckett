@@ -1,0 +1,49 @@
+* {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     font-family: "Montserrat", sans-serif;
+   }
+
+
+.card{
+background-color :#FFAE42;
+width: 40%;
+
+}
+
+#titulo{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.containerMenu{
+     padding-top: 10px;
+     align-items: center;
+     width: 30%;
+     margin:  auto;
+     height: 20%;
+     float: right;
+     padding-left: 10px;
+}
+
+.containerEleccion{
+     align-items: center;
+     width: 50%;
+     margin:  auto;
+     height: 20%;
+     float:inherit;
+     padding-left: 20px;
+}
+
+.form{
+align-content: flex-start;
+align-items: center;
+float:inline-start;
+}
+
+#lista-opciones{
+     background-color: beige;
+
+}
